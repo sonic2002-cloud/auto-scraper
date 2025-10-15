@@ -1,6 +1,5 @@
 import pandas as pd
 
-# --- SCRAPER DI TEST ---
 df = pd.DataFrame({
     "Marca": ["Citroen", "Fiat", "Ford"],
     "Modello": ["C3", "Punto", "Fiesta"],
